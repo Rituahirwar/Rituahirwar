@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ritu Ahirwar</h1>
 <h3 align="center">🔬 Exploring the world of IoT, tech, and cool innovations</h3>
 
-<p align="center">🎓 First-Year Computer Engineering Student at CRCE <br>
+<p align="center">🎓 First-Year Computer Engineering Student at Fr.CRCE <br>
 💡 Passionate about tech, problem-solving & creative building <br>
 ✨ Building small creative projects (and learning every day!)</p>
 
