@@ -4,23 +4,76 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=520&lines=Web+Developer;DSA+Learner;GSSoC+2025+Contributor;Open+Source+Enthusiast" />
 </p>
-
 ---
-
 ### 🌷 About Me
-
 - 🎓 Second-Year **Computer Engineering** student at **Fr. CRCE**
-
+---
 ### 🚀 Technical Skills
 
-**🌐 Web Technologies**  
-HTML • CSS • JavaScript • React.js • Next.js • Node.js  
+#### 🌐 Web Technologies
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
+       width="42"
+       style="margin:6px; filter: drop-shadow(0 0 6px #ff69b4);"/>
 
-**🗄️ Databases**  
-MongoDB • MySQL • Firebase (Firestore)  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
+       width="42"
+       style="margin:6px; filter: drop-shadow(0 0 6px #38bdf8);"/>
 
-**🛠️ Tools & Platforms**  
-Git • GitHub • Postman • VS Code • Firebase Authentication  
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+       width="42"
+       style="margin:6px; filter: drop-shadow(0 0 6px #facc15);"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
+       width="42"
+       style="margin:6px; filter: drop-shadow(0 0 8px #38bdf8);"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
+       width="42"
+       style="margin:6px; background:white; border-radius:6px; padding:2px; filter: drop-shadow(0 0 6px #ff69b4);"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+       width="42"
+       style="margin:6px; filter: drop-shadow(0 0 6px #22c55e);"/>
+</p>
+
+#### 🗄️ Databases
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
+       width="42"
+       style="margin:6px; filter: drop-shadow(0 0 6px #22c55e);"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
+       width="42"
+       style="margin:6px; filter: drop-shadow(0 0 6px #38bdf8);"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
+       width="42"
+       style="margin:6px; filter: drop-shadow(0 0 6px #facc15);"/>
+</p>
+
+#### 🛠️ Tools & Platforms
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
+       width="42"
+       style="margin:6px; filter: drop-shadow(0 0 6px #f97316);"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+       width="42"
+       style="margin:6px; background:white; border-radius:50%; padding:3px; filter: drop-shadow(0 0 6px #ff69b4);"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
+       width="42"
+       style="margin:6px; filter: drop-shadow(0 0 6px #38bdf8);"/>
+
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+       width="42"
+       style="margin:6px; filter: drop-shadow(0 0 6px #ff6c37);"/>
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,mysql,firebase,git,github,vscode&theme=dark" />
+</p>
+
 
 
 ### 🤝 Connect With Me
