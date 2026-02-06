@@ -10,68 +10,8 @@
 ---
 ### 🚀 Technical Skills
 
-#### 🌐 Web Technologies
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-       width="42"
-       style="margin:6px; filter: drop-shadow(0 0 6px #ff69b4);"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-       width="42"
-       style="margin:6px; filter: drop-shadow(0 0 6px #38bdf8);"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-       width="42"
-       style="margin:6px; filter: drop-shadow(0 0 6px #facc15);"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-       width="42"
-       style="margin:6px; filter: drop-shadow(0 0 8px #38bdf8);"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"
-       width="42"
-       style="margin:6px; background:white; border-radius:6px; padding:2px; filter: drop-shadow(0 0 6px #ff69b4);"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
-       width="42"
-       style="margin:6px; filter: drop-shadow(0 0 6px #22c55e);"/>
-</p>
-
-#### 🗄️ Databases
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"
-       width="42"
-       style="margin:6px; filter: drop-shadow(0 0 6px #22c55e);"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"
-       width="42"
-       style="margin:6px; filter: drop-shadow(0 0 6px #38bdf8);"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"
-       width="42"
-       style="margin:6px; filter: drop-shadow(0 0 6px #facc15);"/>
-</p>
-
-#### 🛠️ Tools & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"
-       width="42"
-       style="margin:6px; filter: drop-shadow(0 0 6px #f97316);"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-       width="42"
-       style="margin:6px; background:white; border-radius:50%; padding:3px; filter: drop-shadow(0 0 6px #ff69b4);"/>
-
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"
-       width="42"
-       style="margin:6px; filter: drop-shadow(0 0 6px #38bdf8);"/>
-
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-       width="42"
-       style="margin:6px; filter: drop-shadow(0 0 6px #ff6c37);"/>
-</p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,mysql,firebase,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,mysql,firebase,git,github,vscode,postman&theme=dark" />
 </p>
 
 
