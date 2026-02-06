@@ -22,13 +22,6 @@ MongoDB • MySQL • Firebase (Firestore)
 **🛠️ Tools & Platforms**  
 Git • GitHub • Postman • VS Code • Firebase Authentication  
 
-### 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rituahirwar&label=Profile%20Views&color=ff69b4&style=flat" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 
