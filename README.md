@@ -3,7 +3,7 @@
 
 <p align="center">🎓 Second-Year Computer Engineering Student at Fr.CRCE <br>
 💡 Passionate about tech, problem-solving & creative building <br>
-✨ Building small creative projects (and learning every day!)</p>
+</p>
 
 ---
 
