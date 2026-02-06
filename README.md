@@ -22,26 +22,6 @@ MongoDB • MySQL • Firebase (Firestore)
 **🛠️ Tools & Platforms**  
 Git • GitHub • Postman • VS Code • Firebase Authentication  
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rituahirwar&show_icons=true&theme=tokyonight&border_radius=12"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rituahirwar&theme=tokyonight&border_radius=12"/>
-</p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rituahirwar/Rituahirwar/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
 ### 👀 Profile Views
 
 <p align="center">
@@ -62,7 +42,3 @@ Git • GitHub • Postman • VS Code • Firebase Authentication
 </p>
 
 ---
-
-<p align="center">
-🌸 <b>Building step by step — growing one commit at a time</b> 🌸
-</p>
