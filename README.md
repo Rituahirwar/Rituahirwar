@@ -1,12 +1,10 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=220&section=header&text=Ritu%20Ahirwar&fontSize=48&fontColor=ffffff&animation=fadeIn&desc=Engineer%20in%20the%20making%20|%20Builder%20|%20Open%20Source&descAlignY=70"/>
 </p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=700&center=true&vCenter=true&width=520&lines=Web+Developer;DSA+Learner;GSSoC+2025+Contributor;Open+Source+Enthusiast" />
-</p>
+
 ---
 ### 🌷 About Me
-- 🎓 Second-Year **Computer Engineering** student at **Fr. CRCE**
+- 🎓 Second-Year **Computer Engineering** student at **Fr. CRCE** <br></br>
 ---
 ### 🚀 Technical Skills
 
