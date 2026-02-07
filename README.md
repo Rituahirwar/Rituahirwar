@@ -9,7 +9,7 @@
 ### 💻 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,C,C++,java,python,nodejs,mongodb,mysql,firebase,git,github,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,c,cpp,java,python,nodejs,mongodb,mysql,firebase,git,github,vscode,postman&theme=dark" />
 </p>
 
 
@@ -18,10 +18,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ritu-ahirwar05" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="42"/>
   </a>
+  &nbsp;&nbsp;
   <a href="https://github.com/Rituahirwar" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" width="40"/>
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="42"/>
   </a>
 </p>
 
