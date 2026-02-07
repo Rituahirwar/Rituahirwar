@@ -4,12 +4,12 @@
 
 ---
 ### 🌷 About Me
-- 🎓 Second-Year **Computer Engineering** student at **Fr. CRCE** <br></br>
+- 🎓 Second-Year **Computer Engineering** student  <br></br>
 ---
-### 🚀 Technical Skills
+### 💻 Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,mysql,firebase,git,github,vscode,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,C,C++,java,python,nodejs,mongodb,mysql,firebase,git,github,vscode,postman&theme=dark" />
 </p>
 
 
