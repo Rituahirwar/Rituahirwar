@@ -60,7 +60,6 @@ const ritu = {
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rituahirwar&theme=tokyonight&border=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" />
 </p>
----
 ## 🔗 Connect With Me
 
 <p align="center">
