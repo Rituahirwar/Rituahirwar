@@ -15,9 +15,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://github.com/Rituahirwar/aerogateway">
-    <img src="https://img.shields.io/badge/Featured_Project-AeroGateway-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
 </p>
 
 ---
