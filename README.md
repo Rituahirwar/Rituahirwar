@@ -28,39 +28,13 @@
 const ritu = {
   role:       "Computer Engineering Student (2nd Year)",
   focus:      ["AI Infrastructure", "Full-Stack Dev", "System Design"],
-  currentlyBuilding: "Self-optimizing LLM API Gateways 🚀",
+  currentlyBuilding: "Self-optimizing LLM API Gateways ",
   learning:   ["Distributed Systems", "MLOps", "Cloud Architecture"],
-  funFact:    "I route prompts smarter than you'd expect 🧠",
+  funFact:    "I route prompts smarter than you'd expect ",
 };
 ```
 
 ---
-
-## 🚀 Featured Project
-
-<p align="center">
-  <a href="https://github.com/Rituahirwar/aerogateway">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rituahirwar&repo=aerogateway&theme=tokyonight&border_color=7C3AED&title_color=7C3AED&icon_color=7C3AED" />
-  </a>
-</p>
-
-### ⚡ AeroGateway — Self-Optimizing Multi-LLM Infrastructure Gateway
-
-> A production-grade AI API gateway that intelligently routes every prompt to the cheapest capable model, caches semantically, and never pays twice for the same answer.
-
-| Feature | Stack |
-|---|---|
-| 🧠 ML Prompt Classifier | FastAPI · BART-large-MNLI |
-| 🔌 API Gateway | Fastify · TypeScript · BullMQ |
-| 🗃️ Semantic Cache | Qdrant Vector DB · OpenAI Embeddings |
-| 📊 Real-time Dashboard | Next.js 14 · Socket.IO · Recharts |
-| 🛡️ Resilience | Redis Circuit Breaker · Rate Limiting |
-| 🐳 Infrastructure | Docker · PostgreSQL · Redis |
-
-**Routes across:** OpenAI GPT-4o-mini · Anthropic Claude · Groq Llama 3.1
-
----
-
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -95,15 +69,6 @@ const ritu = {
 </p>
 
 ---
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Rituahirwar/Rituahirwar/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p align="center">
