@@ -27,7 +27,6 @@ const ritu = {
   focus:      ["AI Infrastructure", "Full-Stack Dev", "System Design"],
   currentlyBuilding: "Self-optimizing LLM API Gateways ",
   learning:   ["Distributed Systems", "MLOps", "Cloud Architecture"],
-  funFact:    "I route prompts smarter than you'd expect ",
 };
 ```
 
