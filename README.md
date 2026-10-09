@@ -55,33 +55,12 @@ class RituAhirwar:
   <b>FRONTEND & INFRASTRUCTURE</b><br/><br/>
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,docker,git,github,postman&theme=dark" alt="React, Next.js, HTML, CSS, Tailwind, Docker, Git, GitHub, Postman"/>
 </p>
-
-<p align="center">
-  <b>AI / ML</b><br/><br/>
-  <img src="https://img.shields.io/badge/LLM%20Integration-Exploring-7C3AED?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Semantic%20Search-Hands--on-4F46E5?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Time%20Series%20Forecasting-Projects-6D28D9?style=flat-square"/>
-</p>
-
 ## 🤝 Let's Connect
-
-<p align="center">
-  Interested in backend engineering, AI systems, open source, or building something useful?
-</p>
-
 <p align="center">
   <a href="https://linkedin.com/in/ritu-ahirwar05">
     <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
   </a>
-  <a href="https://portfolio-website-sooty-eight-68.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-View%20My%20Work-312E81?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit portfolio"/>
-  </a>
 </p>
-
-<p align="center">
-  <i>Less hype. More engineering. One problem, one project, one improvement at a time.</i>
-</p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:7C3AED,50:312E81,100:0B1020" width="100%" alt="Purple footer"/>
 </p>
