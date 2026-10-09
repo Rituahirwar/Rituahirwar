@@ -4,7 +4,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:312E81,100:7C3AED&text=Ritu%20Ahirwar&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=ENGINEERING%20IDEAS%20INTO%20REALITY&descSize=15&descAlignY=59&animation=fadeIn" width="100%" alt="Ritu Ahirwar "/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B1020,50:312E81,100:7C3AED&text=Ritu%20Ahirwar&fontSize=52&fontColor=FFFFFF&fontAlignY=38&d&descSize=15&descAlignY=59&animation=fadeIn" width="100%" alt="Ritu Ahirwar "/>
 </p>
 
 <p align="center">
